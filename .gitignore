@@ -12,3 +12,5 @@ desktop.ini
 # Node / Scratch
 node_modules/
 npm-debug.log*
+push_to_github.bat
+
